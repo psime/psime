@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @psime
 - 👀 I’m interested in ... data visualization
-- 🌱 I’m currently learning ... Tableau, Python and R
-- 💞️ I’m looking to collaborate on ... anything interesting
+- 🌱 I’m currently learning ... Tableau with Andy Kriebel and Python 
+- 💞️ I’m looking to collaborate on ... anything interesting, portfolio stuff, football, other sport, politics...
 - 📫 How to reach me ... [here] (https://x.com/p_sime_viz)
 
 <!---
